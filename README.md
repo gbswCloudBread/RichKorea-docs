@@ -27,7 +27,8 @@
 ## 일지
 
 ### day 23/9/15
-구상도 작성 과
+구상도 작성 과제
+
 <img width="451" alt="SW 구성도" src="https://github.com/gbswCloudBread/RichKorea/assets/117147980/06402221-c3ea-45f2-86cb-8d581fcebbce">
 <img width="472" alt="HW 및 네트워크" src="https://github.com/gbswCloudBread/RichKorea/assets/117147980/3364b73e-3b4d-49ca-abb9-8f28fd2520f6">
 

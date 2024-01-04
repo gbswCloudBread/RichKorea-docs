@@ -24,4 +24,6 @@
 ## 구상도
 <img width="431" alt="image" src="https://github.com/gbswCloudBread/RichKorea/assets/117147980/edc5522e-c8cd-4f53-a8f8-1e95bd3b9b0e">
 
+## 일지
+
 [일지](https://github.com/gbswCloudBread/RichKorea/tree/main/docs)

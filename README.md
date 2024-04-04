@@ -10,20 +10,20 @@
   * [홍윤성](https://github.com/fuzzy0260) - 클라우드 인프라 구축
 
 ## 구현 형태
-* 공공의 이익을 위해 지역 홍보 서비스
-* 로드밸런싱을 활용한 고 과용성 서비스
-* 서버 장애 시 빠른 대처를 위한 모니터링 구축
-* 설명이 불 필요한 UI
+  * 공공의 이익을 위한 지역 홍보 서비스
+  * 로드밸런싱을 활용해 큰 부하에 대비
+  * 서버 장애 시 빠른 대처를 위해 모니터링 시스템 구축
+  * 설명이 필요 없는 직관적인 UI
 
 ## 개발 스택
-<img width="416" alt="image" src="https://github.com/gbswCloudBread/RichKorea/assets/117147980/ac25a2eb-1397-428d-8bed-e7a529deee6a">
+  ![개발 스택](./images/stack.png)
 
 ## 웹 디자인
-* [Design](https://github.com/gbswCloudBread/RichKorea/tree/main/Design)
+  * [디자인 시안](./design/)
 
 ## 구상도
-<img width="431" alt="image" src="https://github.com/gbswCloudBread/RichKorea/assets/117147980/edc5522e-c8cd-4f53-a8f8-1e95bd3b9b0e">
+  ![구상도](./images/arch.png)
 
 ## 일지
 
-[일지](https://github.com/gbswCloudBread/RichKorea/tree/main/docs)
+  * [일지](./docs/)
